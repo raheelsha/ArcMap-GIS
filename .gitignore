@@ -1,0 +1,6 @@
+.DS_Store
+*.qgz~
+*.gpkg-shm
+*.gpkg-wal
+Data/*.gpkg
+!Data/master_grid_final.gpkg
