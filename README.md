@@ -2,7 +2,7 @@
 
 A GIS analysis that scores every part of Lahore district by how easily residents can reach four categories of essential urban services — **schools, hospitals, parks, and main roads**. The output is a single 0–100 accessibility score mapped across the city, the kind of location-intelligence layer used by property platforms to explain *why* one neighbourhood is more desirable than another.
 
-![Lahore Residential Accessibility Index](Lahore_Accessibility_Index.png)
+![Lahore Residential Accessibility Index](output/Lahore_Accessibility_Index.png)
 
 > Replace the image above with your exported map file. Keep the PNG in the repository root (or update the path) so it renders on GitHub.
 
